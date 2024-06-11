@@ -9,9 +9,10 @@ https://bren.ucsb.edu/projects/understanding-influence-parameter-value-uncertain
 https://ncar.ucar.edu/
 
 ## Description of the Repositories
-Prototype: Contains cleaned version of the codes on Machine Learning and non-Dashboard stuffs
-CLM5_PPE_Emulator: Contains the clean codes for Dashboard creation and testing of Dashboard on private network NCAR's server
-GaiFuture: Contains the unclean codes. These are mostly practices the team performed during the start of the project to better gain idea about project.
+- **Prototype**: Contains cleaned version of the codes on Machine Learning and non-Dashboard stuffs
+- **CLM5_PPE_Emulator**: Contains the clean codes for Dashboard creation and testing of Dashboard on private network NCAR's server
+- **GaiFuture**: Contains the unclean codes. These are mostly practices the team performed during the start of the project to better gain idea about project.
+
 
 ## Project title
 Understanding the Influence of Parameter Value Uncertainty on Climate Model Output: Developing an Interactive Dashboard
