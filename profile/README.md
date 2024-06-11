@@ -1,4 +1,3 @@
-## Project title
 ### Understanding the Influence of Parameter Value Uncertainty on Climate Model Output: Developing an Interactive Dashboard
 
 ## Introduction
