@@ -20,7 +20,7 @@ Understanding the Influence of Parameter Value Uncertainty on Climate Model Outp
 ## Futher Information
 
 **Principal Investigator:** Daniel Kennedy  
-**Project Team:** Sujan, Sofia, Heather  
+**Project Team:** Heather Childers (Project Manager), Sofia Ingersoll (Communications Manager), Sujan Bhattarai (Data Manager) 
 **Contact Information:**  
 - **Principal Investigator:** Daniel Kennedy  
   - **Email:** djk2120@ucar.edu  
