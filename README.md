@@ -34,7 +34,7 @@ The Parameter Perturbation Experiment data leveraged by our project was generate
 - [Table of output variables for the Community Earth Systems Model v2 (CESM2) Large Ensemble Community Project](https://www.cesm.ucar.edu/community-projects/lens2/output-variables). CESM2 is the climate model that supersedes the CLM5. The predictions provided for the CESM2 output variables were leveraged by the CLM5 to produce its predictions. The variables available in CESM2 are accessible using our dashboard linked above. 
 - [Table of specifications for the Community Land Model v5 (CLM5)](https://www.cesm.ucar.edu/models/clm/data)
 
-### Data & File Overview of (Official Repository: CLM5_PPE_Emulator)[https://github.com/GaiaFuture/CLM5_PPE_Emulator]
+### Data & File Overview of [Official Repository: CLM5_PPE_Emulator](https://github.com/GaiaFuture/CLM5_PPE_Emulator)
 ```
 ├── emulation results/
 │   └── f"{var_name}_{param_name}_{time_selection}_gpr_model.sav”
