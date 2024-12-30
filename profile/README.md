@@ -19,12 +19,12 @@ https://ncar.ucar.edu/
 ## Collaborators
 
 **Principal Investigator:** Daniel Kennedy
- - **Email:** djk2120@ucar.edu  
+- **Email:** djk2120@ucar.edu  
 - **Affiliation:** National Center For Atmospheric Research @ UCSB
   
 **Project Team:** 
-Project Manager: Heather Childers
-Communications Manager: Sofia Ingersoll 
-Data Manager: Sujan Bhattarai
+Project Manager: Heather Childers <br/>
+Communications Manager: Sofia Ingersoll  <br/>
+Data Manager: Sujan Bhattarai <br/>
 
 
