@@ -22,7 +22,7 @@ https://ncar.ucar.edu/
 - **Email:** djk2120@ucar.edu  
 - **Affiliation:** National Center For Atmospheric Research @ UCSB
   
-**Project Team:** 
+**Project Team:** <br/>
 Project Manager: Heather Childers <br/>
 Communications Manager: Sofia Ingersoll  <br/>
 Data Manager: Sujan Bhattarai <br/>
