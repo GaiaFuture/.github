@@ -1,7 +1,7 @@
-### Understanding the Influence of Parameter Value Uncertainty on Climate Model Output: Developing an Interactive Dashboard
+## Understanding the Influence of Parameter Value Uncertainty on Climate Model Output: Developing an Interactive Dashboard
 
-## Introduction
-Scientists at the National Center for Atmospheric Research have recently carried out several experiments to better understand the uncertainties associated with future climate projections. In particular, the NCAR Climate and Global Dynamics Lab (CGDL) working group has completed a large Parameter Perturbation Experiment (PPE) utilizing the Community Land Model (CLM), testing the effects of 32 parameters over thousands of simulations over a range of 250 years. The CLM model experiment is focused on understanding uncertainty around biogeophysical parameters that influence the balance of chemical cycling and sequestration variables. The current website for displaying model results is not intuitive or informative to the broader scientific audience or the general public. The goal of this project is to develop an improved data visualization dashboard for communicating the results of the CLM PPE. The interactive dashboard would provide an interface where new or experienced users can query the experiment database to ask which environmental processes are affected by a given model parameter, or vice versa. Improving the accessibility of the data will allow professionals to use the most recent land parameter data when evaluating the impact of a policy or action on climate change. 
+### Introduction
+Climate models are computer simulations that attempt to replicate the complex interactions between Earth’s systems. Improving the accuracy of climate models relies on evaluating uncertainty and minimizing error. The Climate and Global Dynamics Lab at the National Center for Atmospheric Research (NCAR) has recently carried out a Parameter Perturbation Experiment (PPE) to understand how the uncertainty of parameter values affected the output of their model, the Community Land Model (CLM); which simulates terrestrial processes. While the necessary data for the PPE has been collected, the data is stored in a collection of files that are difficult to interpret in their current form. The current website hosts visualizations for a portion of the PPE data, but contains no visualizations for data that more closely simulates Earth system interactions. These issues can be mitigated by developing an emulator with the internal complexity to isolate a one-to-one relationship between a parameter and climate variable, then display the predicted relationship. A publicly available emulator with these capabilities will allow scientists to easily interpret complex climate model outputs and offer insights on parameter-variable relationships that are not being predicted accurately by the model; which can lead to increased accuracy and precision of climate models. 
 
 #### Project Link
 https://bren.ucsb.edu/projects/understanding-influence-parameter-value-uncertainty-climate-model-output-developing
@@ -9,9 +9,9 @@ https://bren.ucsb.edu/projects/understanding-influence-parameter-value-uncertain
 https://ncar.ucar.edu/
 
 ## Description of the Repositories
-- **Prototype**: Contains cleaned version of the codes on Machine Learning and non-Dashboard stuffs
-- **CLM5_PPE_Emulator**: Contains the clean codes for Dashboard creation and testing of Dashboard on private network NCAR's server
-- **GaiFuture**: Contains the unclean codes. These are mostly practices the team performed during the start of the project to better gain idea about project.
+- **Prototype**: Contains code for the development of the emulator
+- **CLM5_PPE_Emulator**: Contains code for developing the interactive components and launching the dashboard with Docker
+- **GaiFuture**: Contains the initial workflow setup, this repository acts as a notebook where students could test new ideas during the initial phase of the project
 
 ## Futher Information
 #### This project is completed as a partial requirement for the Master's capstone project at the Bren School of Environmental Science and Management at the University of California, Santa Barbara
@@ -21,7 +21,10 @@ https://ncar.ucar.edu/
 **Principal Investigator:** Daniel Kennedy
  - **Email:** djk2120@ucar.edu  
 - **Affiliation:** National Center For Atmospheric Research @ UCSB
-- 
-**Project Team:** Heather Childers, Sofia Ingersoll , Sujan Bhattarai
+  
+**Project Team:** 
+Project Manager: Heather Childers
+Communications Manager: Sofia Ingersoll 
+Data Manager: Sujan Bhattarai
 
 
